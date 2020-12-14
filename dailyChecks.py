@@ -594,10 +594,10 @@ def main():
                 # Could be a list of lists for multiple tenants
 
     #CHANGE ME
-    umbrellaClients = [] # List of clients in order, coinciding with the order of umbrellaAPI
+    umbrellaClients = [] # List of client names in order, coinciding with the order of umbrellaAPI
 
     #CHANGE ME
-    ampClients = [] # List of clients in order, coinciding with the order of ampAPI
+    ampClients = [] # List of client names in order, coinciding with the order of ampAPI
 
     ampCount = 0
     print("\nStarting Script ...")
